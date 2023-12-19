@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Bookshelf</string>
+    <string name="volverAIntentar">Volver a intentar</string>
+    <string name="volver">Volver</string>
+    <string name="cargando">Cargando</string>
+    <string name="errorAlCargar">Error al cargar</string>
+    <string name="noEncontrado">No se ha encontrado nada en esta busqueda</string>
+    <string name="libro"><b>Libro</b> $s</string>
+    <string name="buscarPlaceholder">Que libros quieres buscar</string>
+
+    <string name="tituloDelLibro"><i>Título:</i> %s</string>
+    <string name="subtituloDelLibro"><u>Subtítulo:</u> %s</string>
+    <string name="autor"><b>Autor:</b> %s</string>
+    <string name="precio"><b>Precio:</b> %s</string>
+    <string name="pais"><b>País:</b> %s</string>
+    <string name="listaPrecios"><b>Lista de precios:</b> %s</string>
+    <string name="descripcion"><b>Descripción:</b> %s</string>
+
+    <string name="btnBusqueda">Buscar en las librerias de Google</string>
+</resources>
